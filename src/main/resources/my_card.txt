@@ -1,0 +1,13 @@
+BASIC
+LOKLHASS
+120
+WATER
+-
+W / AQUABALLE / 20, 3C / HYDROCANON / 70
+LIGHTNING
+-
+2
+TEAM UP
+E
+Долгов / Роман / Андреевич / БСБО-06-23
+21
